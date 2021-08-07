@@ -1,0 +1,9 @@
+.my-form{
+	padding: 20px;
+}
+.form{
+	padding-bottom: 15px;
+}
+.my-form label{
+display: block;
+}
